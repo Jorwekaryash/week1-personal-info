@@ -1,1 +1,12 @@
+Test Case 1: Normal input
+Favorite food: Pizza
+Favorite color: Blue
+
+Test Case 2: Empty input first, valid input second
+Favorite food: [empty] -> Burger
+Favorite color: [empty] -> Black
+
+Test Case 3: Long input
+Favorite food: Very spicy homemade paneer butter masala with naan
+Favorite color: Dark metallic blue
 
